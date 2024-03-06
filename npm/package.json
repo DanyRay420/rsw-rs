@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/rwasm/rsw-rs#readme",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "binary-install": "^1.0.6",
     "rimraf": "^3.0.2",
     "tar": "^6.1.11"
